@@ -434,3 +434,4 @@
 - A Kádár-korszakban tilos volt '56-ról beszélnilllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 ltesoialtsoe 
 - írok ide még egy sort, csak a rend kedvéért
+-na még egy
