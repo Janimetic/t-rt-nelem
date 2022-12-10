@@ -9,3 +9,4 @@
 - Egész Indokína kommunista lesz
 - valami új sor
 - meg még egy
+- ùj sor
