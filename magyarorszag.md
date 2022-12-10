@@ -7,4 +7,6 @@
 - Hippimozgalom
 - '73-ban kivonulnak
 - Egész Indokína kommunista lesz
+tselőtea
+etl
 
