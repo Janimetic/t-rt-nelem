@@ -432,4 +432,5 @@
     - Szilágyi József
 - A Kádár-rendszer az '56-os eseményt ellenforradalomnak nevezi
 - A Kádár-korszakban tilos volt '56-ról beszélnilllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+ltesoialtsoe 
 
