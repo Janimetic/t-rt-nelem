@@ -1,9 +1,9 @@
-#Kádár Korszak 1956-1988
+# Kádár Korszak 1956-1988
 
 - egészen más, bár továbbra is diktatúra 
 - újra téeszesítés
 - puha diktatúra
-- szémlyi kultusz és a terror mértéke csökken
+- személyi kultusz és a terror mértéke csökken
 - visszatérnek a kommunista irányítás elemei 
 - pártállami rendszer
 - gazdaságban tervutasítás
@@ -15,4 +15,18 @@
 - "aki nincs velünk, az ellenünk" most: "aki nincs ellenünk, az velünk van"
 - 56 említése szigorúan tilos volt 
 - a jelenlegi rendszer bírálata tilos volt, de a sztálini rendszerrel szemben már lehetett kritikát megfogalmazni
-- 
+- az emberek egyszerűen ráébredtek arra, hogy nem sikerült 56 után a szuverenitás, a demokrácia, és erre nincs is esély a közeljövőben
+- meg kell tanulni együttélni a rendszerrel
+  - egyfajta belső kiegyezés a rendszerrel
+- az egész magyar társadalom apolitikussá válik (rendszer tudatosan törekszik ennek a kialakítására)
+- már 63-ban amnesztiát ad Kádár az 56-os elítélteknek (akit még nem végeztek ki), ekkorra már veszélytelennek ítélik meg a társadalom számára
+  - III/III-as ügyosztály megfigyelés alatt tartja őket
+- a politikai stabilizációnak az a kulcsa, hogy az emberek figyelmét a megélhetés felé terelik
+- Csökkentik a nehézipari beruházások mértékét, továbbra is téeszesítenek a mezőgazdasában, __de__ a TSZ-ek mellett az emberek háztáji gazdálkodást folytathattak
+  - állatokat tartottak, vagy gyümölcsöt termesztettek
+  - megoldotta az élelemellátás nehézségeit
+  - másrészt akkora munkát jelentett, hogy elterelte a figyelmet a politikáról
+  - a felesleget piacra vihették a termelők
+  - "gulyáskommunizmus"
+  - 
+-   
