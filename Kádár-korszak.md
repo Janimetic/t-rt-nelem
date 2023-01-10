@@ -56,4 +56,9 @@
   - lakásépítési program
     - rengeteg panel épül a gyárak környezetében
   - "a legvidámabb barakként" kezdik emlegetni Magyarországot
-  -      
+  - Három T politikája: 
+    - továbbra is cenzúrázták a rádiót, tv-t újságokat
+    - továbbra is tiltott volt 56-ról szót ejteni, utalni rá
+    - támogatott volt a szovjet politikának az éltetése, Marxista-Leninista ideológiák népszerűsítése
+    - tűrt: nem fő műsoridőben a rendzsert lehetett kicsit kritizálni, nevetni a rendszer sajátosságain
+  - 73-ban 
