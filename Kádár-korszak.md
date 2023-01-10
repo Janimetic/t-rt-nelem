@@ -51,4 +51,9 @@
   - mérséklődtek a különbségek az emberek között
   - minden fogyasztási cikkért több munkaórát kellett vállalni, mint nyugaton
   - egyre több vásárlási, fogyasztási, nyaralási lehetőség
-  - növekszik az állami üdülők száma          
+  - növekszik az állami üdülők száma
+    - üdülések két-három hétre akár munkásoknak is elérhetőek voltak
+  - lakásépítési program
+    - rengeteg panel épül a gyárak környezetében
+  - "a legvidámabb barakként" kezdik emlegetni Magyarországot
+  -     
