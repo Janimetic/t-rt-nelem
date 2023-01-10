@@ -61,4 +61,8 @@
     - továbbra is tiltott volt 56-ról szót ejteni, utalni rá
     - támogatott volt a szovjet politikának az éltetése, Marxista-Leninista ideológiák népszerűsítése
     - tűrt: nem fő műsoridőben a rendzsert lehetett kicsit kritizálni, nevetni a rendszer sajátosságain
-  - nemzetközi környezet is változóban volt a hetvenes években
+  - nemzetközi környezet is változóban volt a hetvenes években, 73-ban és 79-ben két olajárrobbanás történik
+    - megváltoznak a cserearányok, egyre drágább az energia, a lakosságra háríthatnák, de nem teszik, mert félnek, hogy ismét 56-os indulatok keletkeznek, az egész Kádár-korszak alapja a viszonylagos jólét, legitimációs problémát jelentene a kormánynak
+    - nyugati kölcsönöket kezd felvenni az ország, hitelekkel pótolják a költségvetési hiányt, a kamatok fizetésére újabb hiteleket vesznek fel.
+    - Adósságcsapdába kerül az ország
+    - 
