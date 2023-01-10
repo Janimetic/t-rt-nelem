@@ -28,5 +28,10 @@
   - másrészt akkora munkát jelentett, hogy elterelte a figyelmet a politikáról
   - a felesleget piacra vihették a termelők
   - "gulyáskommunizmus"
+- új gazdasági mechanizmus
+  - 68-ban reformok a tervgazdálkodás rugalmasabbá tételére
+  - önálló vállalati kezdeményezések
+  - valós árak és bérek
+  - 72-ben leállítják, mert félnek, hogy picgazdasággá alakul át
+  - az árnyékgazdaság megmarad
   - 
--   
