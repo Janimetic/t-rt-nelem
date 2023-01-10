@@ -34,4 +34,21 @@
   - valós árak és bérek
   - 72-ben leállítják, mert félnek, hogy picgazdasággá alakul át
   - az árnyékgazdaság megmarad
-  - 
+  - túlhajszolt emberek
+  - alkoholizmus
+  - családon belüli erőszak
+  - válások számának megnövekedése
+  - öngyilkosságok magas száma
+  - abortuszok számának megugrása
+    -56 és 9ü között ötmillió
+  - kétkeresős családmodell válig elterjedtté
+  - bevezették a gyest 68-ban
+  - rengeteg új fogyasztási cikk jelenik meg - fridzsiderszocializmus (háztartási cikkekkel ellátott 
+    - Kádárnak tulajdonítják
+  - megjelent az autó: trabantszocializmus
+    - több évet kellett várni rá
+  - jövedelmi viszonyok viszonylag kiegyenlítődtek
+  - mérséklődtek a különbségek az emberek között
+  - minden fogyasztási cikkért több munkaórát kellett vállalni, mint nyugaton
+  - egyre több vásárlási, fogyasztási, nyaralási lehetőség
+  - növekszik az állami üdülők száma          
