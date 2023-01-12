@@ -92,4 +92,9 @@
     - Létrejött az MDF (Magyar Demokrata Fórum)
  - 1988 márciusában KISZ táborából (Kommunista Ifjúsági Szövetség), Bibó szakkollégium tagjaiból megalakul a FIDESZ
  - 1988 SZDSZ: Szabad Demokraták Szövetsége - liberális párt
- - 
+ - 1988-ban tüntetéseket szerveztek, letartóztatások
+ - __1988-ban leváltják Kádár Jánost__
+   - Helyébe Grósz Károly kerül
+ - 1989 januárjában Pozsgay Imre egy rádióbeszédet tartott, ahol 56-ot először népfelkelésnek nevezte
+ 
+# Rendszerváltás - rendszerváltozás - __rendszerváltoztatás__ 
