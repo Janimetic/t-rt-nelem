@@ -71,7 +71,7 @@
   - ingyenes egészségügy megőrzése
   - teljes foglalkoztatottság fenntartása
  - Szovjetunión belül is nyilvánvaló a rendszer válsága
--  - változások következnek
+  - változások következnek
     - 1985 fiatal pártfőtitkár: Gorbacsov lesz az új 
     - __Glasznoszty: nyilvánosság__
     - __Peresztrojka: váltás__
