@@ -79,3 +79,12 @@
     - Hidegháborúban vereséget szenvedtek (USA csillagháborús terve)
  - Magyarországon a gazdaság területén a központi irányítás gyengült, egrye aktívabb lesz a második gazdaságon belül végzett munka.    
  - nőnek a vagyoni különbségek
+ - A politikában is megjelent az ellenzék
+  - az emberi jogok kérdését állították középpontba a Beszélő kör tagjai
+  - Megjelent az első illegális folyóirat, a Beszélő
+  - Az első igazi ellenzéki tanácskozásra Monoron került sor 1985-ben.
+    - Itt merült fel először az igény a pártállam megszüntetesérée. 
+  - 8ü-as évek középen a másik ellenzéki csoport is elkezd kialakulni, a népi-nemzeti ellenzék csoportja, melyek elsősorban a szuverén nemzetet tartották legfontosabbnak
+    - Lezsák Sándor
+    - Lakitelki találkozó 87-ben
+    - Jelen van az összes ellenzéki mozgalom és az MSZMP-ből kikerülő reformerek is
