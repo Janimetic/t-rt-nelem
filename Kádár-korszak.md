@@ -78,3 +78,4 @@
     - 1986 Csernobil
     - Hidegháborúban vereséget szenvedtek (USA csillagháborús terve)
  - Magyarországon a gazdaság területén a központi irányítás gyengült, egrye aktívabb lesz a második gazdaságon belül végzett munka.    
+ - nőnek a vagyoni különbségek
