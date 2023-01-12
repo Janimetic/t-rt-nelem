@@ -90,4 +90,6 @@
     - Jelen van az összes ellenzéki mozgalom és az MSZMP-ből kikerülő reformerek is
     - Pozsgay Immre: MSZMP-n belül próbált bontani. Később egyetemi előadó volt, kb mindenkinek ötöst adott, jól bírta a vodkát, szeretett bulizni a fiatalokkal
     - Létrejött az MDF (Magyar Demokrata Fórum)
- - 1988 márciusában KISZ táborából (Kommunista Ifjúsági Szövetség), Bibó szakkollégium tagjaiból megalakul a FIDESZ    
+ - 1988 márciusában KISZ táborából (Kommunista Ifjúsági Szövetség), Bibó szakkollégium tagjaiból megalakul a FIDESZ
+ - 1988 SZDSZ: Szabad Demokraták Szövetsége - liberális párt
+ - 
