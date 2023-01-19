@@ -77,7 +77,7 @@
     - __Peresztrojka: váltás__
     - 1986 Csernobil
     - Hidegháborúban vereséget szenvedtek (USA csillagháborús terve)
- - Magyarországon a gazdaság területén a központi irányítás gyengült, egrye aktívabb lesz a második gazdaságon belül végzett munka.    
+ - Magyarországon a gazdaság területén a központi irányítás gyengült, egyre aktívabb lesz a második gazdaságon belül végzett munka.    
  - nőnek a vagyoni különbségek
  - A politikában is megjelent az ellenzék
   - az emberi jogok kérdését állították középpontba a Beszélő kör tagjai
