@@ -1,4 +1,4 @@
-# Kádár Korszak 1956-1988
+# Kádár Korszak 1956-1988 
 
 - egészen más, bár továbbra is diktatúra 
 - újra téeszesítés
@@ -98,4 +98,30 @@
  - 1989 januárjában Pozsgay Imre egy rádióbeszédet tartott, ahol 56-ot először népfelkelésnek nevezte
  
 # Rendszerváltás - rendszerváltozás - __rendszerváltoztatás__ 
-
+- Megkezdődött '56 átértékelése -> már nem cenzúrázzák
+- 1989. jan. Pozsgay Imre népfelkelésnek minősítette 56-ot -> a Kádár rendszer eszmei alapját is megkérdőjelezi
+- 1989. febr. egyesülési és gyülekezési jogról szóló törvény -> sajtó nyitottsága
+    - Egyre több párt jön létre
+        - FKGP
+        - KDNP
+-  Gazdasági változások
+    - Gazdasági vállalkozások, de tőke nincs
+    - Spontán privatizáció
+        - Magánkézbe kerül az állami tulajdon része
+- 1989.: jún. 16 Nagy Imre és mártírtársainak újratemetése
+    - Megemlékezés az '56-os hősökre
+- 1989. júl. 2.: Meghal Kádár János
+- Ősszel megkezdődnek a tárgyalások az MSZMP és az ellenzéki pártok között -> ellenzéki kerekasztal
+- Nemzeti kerekasztal, ide meghívták a civil szervezeteket is
+- Új alkotmányos törvények
+- Nagy vita a köztársasági elnök megválasztásáról
+- "Négy igenes" népszavazás -> a parlament választja
+- Németh Miklós vezette az MSZMP-t rendszerváltáskor
+    - Ő kezdi el a tárgyalásokat a szovjet csapatok kivonásáról
+    - Megnyíltak a határok nyugatra
+- Kimondják az MSZMP feloszlását
+- Az MSZMP reformköre (Pozsgay Imre, Horn Gyula, Németh Miklós)
+- 1989. okt. 23. 
+    - a 3. magyar köztársaság kikiáltása
+    - A forradalom első megemlékezett évfordulója
+- 1990. márc.: első országgyűlési választások
