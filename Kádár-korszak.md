@@ -100,7 +100,7 @@
 # Rendszerváltás - rendszerváltozás - __rendszerváltoztatás__ 
 - Megkezdődött '56 átértékelése -> már nem cenzúrázzák
 - 1989. jan. Pozsgay Imre népfelkelésnek minősítette 56-ot -> a Kádár rendszer eszmei alapját is megkérdőjelezi
-- 1989. febr. egyesülési és gyülekezési jogról szóló törvény -> sajtó nyitottsága
+- 1989 febr. egyesülési és gyülekezési jogról szóló törvény -> sajtó nyitottsága
     - Egyre több párt jön létre
         - FKGP
         - KDNP
