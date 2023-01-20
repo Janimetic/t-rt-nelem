@@ -125,3 +125,12 @@
     - a 3. magyar köztársaság kikiáltása
     - A forradalom első megemlékezett évfordulója
 - 1990. márc.: első országgyűlési választások
+- MDF nyeri a válazstásokat, Antall József lesz a miniszterelnök (népi, jobboldali, keresztény értékrendű párt)
+- ellenzék: SZDSZ: liberális párt (városi értékrend)
+- A stabil kormányzás érdekében az MDF és SZDSZ egy megállapodást, egy paktumot köt:
+  - Az SZDSZ adhatta a köztársasági elnököt. (Göncz Árpád)
+  - konstruktív bizalmatlansági indítvány: a kormány csak egyben hívható vissza
+    - a kormány és a miniszterelnök személye válik meghatározóvá
+- Ősszel kerül sor az első önkormányzati választásokra
+  - helyi közösségek élére polgármester kerül, lakosok által megválasztott önkormányzati képviselő testület
+  - 
