@@ -6,3 +6,4 @@ Kilencvenes évek Magyarországa
     - mélyszegénység jelenik meg
   - hatalmas munkanélküliség (megszűnnek a nagy állami vállalatok)
   - tovább nő a külföldi adósságállomány  
+  - nem tud beindulni a privatizáció
