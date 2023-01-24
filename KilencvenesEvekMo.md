@@ -7,3 +7,39 @@ Kilencvenes évek Magyarországa
   - hatalmas munkanélküliség (megszűnnek a nagy állami vállalatok)
   - tovább nő a külföldi adósságállomány  
   - nem tud beindulni a privatizáció
+  - kárpótlásjegyeket vezetnek be
+  - új külpolitikai orientáció, nyitás a nyugat felé, nyitás a NATO fele
+  - 1994 után nagyarányú baloldali győzelem, melyet a nosztalgia irányított
+    - Bokros csomag: megszorítások 94 és 98 között (tandíj, fizetős egésszégügy, nyugdíjcsökkentés)
+    - privatizációval külföldi tőke beengedése
+    
+- alkotmány: alaptörvény, mely tartalmazza az állam intézményi struktúrájának leírását, állampolgárok jogait és kötelezettségei
+  - alapvetésekkel kezd, államformát rögzít
+  - Magyar állam működése a hatalommegosztás elvén nyugszik
+  - Magyarország európai uniós tag
+  - emberi méltósághoz való jog, tilos a klónozás
+  - mindenkinek joga van a gondal, lelkiismeret, vallásszabadsághoz
+  - magánélet szabadsága
+  - személyes adatok védelme
+  - gyülekezési jog
+  - művelődési jog
+  - munka és foglalkozás megválasztása
+  - tulajdon és öröklés joga
+  - Magyar állampolgár Magyarország területéről nem utasítható ki
+  - törvény előtt mindenki egyenlő
+  - nők és férfiak egyenjogúak
+  - nagykorú gyerekek kötelesek rászoruló szüleikről gondoskodni
+  - tilos a gyerekmunka
+  - mindenkinek joga van testi és lelki egészségéhez
+  - mindenkinek joga van egészséges környezethez
+  - kötelezettségek:
+    - adózás
+    - minden magyar állampolgár köteles az ország védelmére
+    - önkéntes tartalékos honvédelmi rendszer
+  - Országgyűlés:
+    - köztársasági elnököt választ
+    - ...
+    - megválasztja a miniszterelnököt
+    - dönt a kormánnyal kapcsolatos bizalmi kérdésekről
+    - törvényalkotás
+       
