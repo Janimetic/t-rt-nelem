@@ -42,4 +42,40 @@ Kilencvenes évek Magyarországa
     - megválasztja a miniszterelnököt
     - dönt a kormánnyal kapcsolatos bizalmi kérdésekről
     - törvényalkotás
-       
+  - Köztársasági elnök:
+    - Magyarország államfője
+    - Nemzet egységét
+    - őrködik a nemzet demokratikus működése felett
+    - Magyar honvédség főparancsnoka     
+    - Különleges jogrendet érintő döntést hozhat
+    - halasztó hatályú vétójoggal rendelkezik
+      - saját, vagy alkotmányos aggályon alapuló
+    - Megbízza, fogadja a nagyköveteket
+    - kinevezi, előlépteti a tábornokokat
+    - egyéni kegyelmezés jogát gyakorolja
+    - egyszer választható újra
+    - bármely magyar állampolgár, aki 35. életévét betöltötte
+    - személye sérthetetlen
+    - összeegyeztethetetlen bármely más politikai 
+    - egyéb tevékenységéért díjazást nem fogadhat el
+    
+ - Kormány
+    - végrehajtó hatalom szerve
+    - országgyűlésnek felel
+    - kormány tagjai: miniszterelnök, miniszterek
+    - miniszterelnök meghatározza a kormány általános politikáját
+ 
+- Alkotmánybíróság
+  - alaptörvény védelmének legfőbb szerve
+  - alkotmánybíróságnak hatásköre van megsemmsíteni alaptörvénybe ütközö jogszabályokat
+  - 15 tagból áll, 12 évre választják 
+  - nem lehetnek tagjai pártnak, nem folytathatnak politikai tevékenységet
+  - bíróság különálló független szerv
+    - legfőbb szerve a Kúria (legfelsőbb bíróság)
+  - bírók függetlenek
+  - ügyészség az igazságszolgáltatás közreműködője, független, a vádot képviseli
+  - alapvető jogok biztosa: jogvédő tevékenységet lát el, állami szervekkel szemben az embereket véd
+  
+  -Helyi önkormányzat
+  
+  -Honvédség    
