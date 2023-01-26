@@ -28,8 +28,8 @@
   - másrészt akkora munkát jelentett, hogy elterelte a figyelmet a politikáról
   - a felesleget piacra vihették a termelők
   - "gulyáskommunizmus"
-- új gazdasági mechanizmus
-  - 68-ban reformok a tervgazdálkodás rugalmasabbá tételére
+- __új gazdasági mechanizmus__
+  - __68-ban reformok a tervgazdálkodás rugalmasabbá tételére__
   - önálló vállalati kezdeményezések
   - valós árak és bérek
   - 72-ben leállítják, mert félnek, hogy picgazdasággá alakul át
@@ -40,9 +40,9 @@
   - válások számának megnövekedése
   - öngyilkosságok magas száma
   - abortuszok számának megugrása
-    -56 és 9ü között ötmillió
-  - kétkeresős családmodell válig elterjedtté
-  - bevezették a gyest 68-ban
+    - '56 és 90 között ötmillió
+  - kétkeresős családmodell válik elterjedtté
+  - bevezették a gyest '68-ban
   - rengeteg új fogyasztási cikk jelenik meg - fridzsiderszocializmus (háztartási cikkekkel ellátott 
     - Kádárnak tulajdonítják
   - megjelent az autó: trabantszocializmus
@@ -60,7 +60,7 @@
     - továbbra is cenzúrázták a rádiót, tv-t újságokat
     - továbbra is tiltott volt 56-ról szót ejteni, utalni rá
     - támogatott volt a szovjet politikának az éltetése, Marxista-Leninista ideológiák népszerűsítése
-    - tűrt: nem fő műsoridőben a rendzsert lehetett kicsit kritizálni, nevetni a rendszer sajátosságain
+    - tűrt: nem fő műsoridőben a rendszert lehetett kicsit kritizálni, nevetni a rendszer sajátosságain
  
 # Szocialista rendszer válsága
  - nemzetközi környezet is változóban volt a hetvenes években, 73-ban és 79-ben két olajárrobbanás történik
