@@ -77,5 +77,7 @@ Kilencvenes évek Magyarországa
   - alapvető jogok biztosa: jogvédő tevékenységet lát el, állami szervekkel szemben az embereket véd
   
   -Helyi önkormányzat
-  
+   -tulajdona köztulajdon
+    -feladat és hatásköreit a képviselőtestület gyakorolja, képviselőtestületet a polgármester vezeti
+    
   -Honvédség    
