@@ -84,7 +84,7 @@
   - Megjelent az első illegális folyóirat, a Beszélő
   - Az első igazi ellenzéki tanácskozásra Monoron került sor 1985-ben.
     - Itt merült fel először az igény a pártállam megszüntetesérée. 
-  - 8ü-as évek középen a másik ellenzéki csoport is elkezd kialakulni, a népi-nemzeti ellenzék csoportja, melyek elsősorban a szuverén nemzetet tartották legfontosabbnak
+  - 80-as évek középen a másik ellenzéki csoport is elkezd kialakulni, a népi-nemzeti ellenzék csoportja, melyek elsősorban a szuverén nemzetet tartották legfontosabbnak
     - Lezsák Sándor
     - Lakitelki találkozó 87-ben
     - Jelen van az összes ellenzéki mozgalom és az MSZMP-ből kikerülő reformerek is
@@ -99,7 +99,7 @@
  
 # Rendszerváltás - rendszerváltozás - __rendszerváltoztatás__ 
 - Megkezdődött '56 átértékelése -> már nem cenzúrázzák
-- 1989. jan. Pozsgay Imre népfelkelésnek minősítette 56-ot -> a Kádár rendszer eszmei alapját is megkérdőjelezi
+- 1989 jan. Pozsgay Imre népfelkelésnek minősítette 56-ot -> a Kádár rendszer eszmei alapját is megkérdőjelezi
 - 1989 febr. egyesülési és gyülekezési jogról szóló törvény -> sajtó nyitottsága
     - Egyre több párt jön létre
         - FKGP
@@ -108,9 +108,9 @@
     - Gazdasági vállalkozások, de tőke nincs
     - Spontán privatizáció
         - Magánkézbe kerül az állami tulajdon része
-- 1989.: jún. 16 Nagy Imre és mártírtársainak újratemetése
+- 1989 jún. 16 Nagy Imre és mártírtársainak újratemetése
     - Megemlékezés az '56-os hősökre
-- 1989. júl. 2.: Meghal Kádár János
+- 1989 júl. 2.: Meghal Kádár János
 - Ősszel megkezdődnek a tárgyalások az MSZMP és az ellenzéki pártok között -> ellenzéki kerekasztal
 - Nemzeti kerekasztal, ide meghívták a civil szervezeteket is
 - Új alkotmányos törvények
@@ -121,11 +121,11 @@
     - Megnyíltak a határok nyugatra
 - Kimondják az MSZMP feloszlását
 - Az MSZMP reformköre (Pozsgay Imre, Horn Gyula, Németh Miklós)
-- 1989. okt. 23. 
+- 1989 okt. 23. 
     - a 3. magyar köztársaság kikiáltása
     - A forradalom első megemlékezett évfordulója
-- 1990. márc.: első országgyűlési választások
-- MDF nyeri a válazstásokat, Antall József lesz a miniszterelnök (népi, jobboldali, keresztény értékrendű párt)
+- 1990 márc.: első országgyűlési választások
+- MDF nyeri a választásokat, Antall József lesz a miniszterelnök (népi, jobboldali, keresztény értékrendű párt)
 - ellenzék: SZDSZ: liberális párt (városi értékrend)
 - A stabil kormányzás érdekében az MDF és SZDSZ egy megállapodást, egy paktumot köt:
   - Az SZDSZ adhatta a köztársasági elnököt. (Göncz Árpád)
