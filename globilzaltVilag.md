@@ -7,7 +7,8 @@
 
 
 ókori görög világban a népesség poliszokba szerveződött
-mag határozza meg, hogy milyen 
+mag határozza meg, hogy milyen szabályok szerint él, milyen államformát választ
+
 
 
 
