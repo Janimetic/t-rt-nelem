@@ -1,2 +1,59 @@
 
-
+
+
+
+
+
+
+
+ókori görög világban a népesség poliszokba szerveződött
+mag határozza meg, hogy milyen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
