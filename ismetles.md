@@ -35,3 +35,9 @@ Román, gótikus, és reneszánsz kultúra
 Magyar nép eredete
 - Honfoglalás állomásai: 
   -Levédia, 
+  
+- István 1üüü-ben kapta meg a koronát
+- Frank mintára hozzák létre a közigazgatást
+- az Ispán ha kell katonákat bocsát a király rendelkezésére
+- Másik érsek Kalocsán van
+-   
