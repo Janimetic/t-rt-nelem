@@ -78,6 +78,19 @@ Kilencvenes évek Magyarországa
   
   -Helyi önkormányzat
    -tulajdona köztulajdon
-    -feladat és hatásköreit a képviselőtestület gyakorolja, képviselőtestületet a polgármester vezeti
-    
+    - feladat és hatásköreit a képviselőtestület gyakorolja, képviselőtestületet a polgármester vezeti
+    - helyi önkormányzati képviselők
+  
+  - Magyar Nemzeti Bank
+    - elnökét a köztársasági elnök nevezi ki hat évre
+    - évente beszámolnak az országgyűlésnek  
+  - Állami számvevőszék országgyűlés költségvetését ellenőrző szerve
+    - elnökét az országgyűlés választja
   -Honvédség    
+    - Magyarország fegyveres ereje
+    - Magyarország függetlenségének védelme
+    - közös védelmi és békefenntartó feladatok ellátása
+    - humanitárius tevékenység végzése
+    
+  - Rendőrség
+  -     
